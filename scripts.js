@@ -7,7 +7,7 @@ function convertValues(){
     const currencyValueConverted = document.querySelector(".currency-value")
 
     const dolarToday = 5.2
-    const euroToday = 6.2
+    const euroToday = 5.8
     const libraToday = 7.0
     const bitcoinToday = 150000.0
 
